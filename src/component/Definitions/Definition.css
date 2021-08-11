@@ -8,11 +8,16 @@
   border-radius: 10px;
   padding: 10px 20px;
   overflow-x: hidden;
+  margin-top: 3rem;
 }
 
 .subTitle {
   font-size: 5vw;
   font-family: 'montserrat', sans-serif;
+}
+
+.audio {
+  margin: 1rem;
 }
 
 @media (max-width: 900px) {
