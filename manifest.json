@@ -1,0 +1,10 @@
+{
+  "name": "Dictionary Hunt",
+  "short_name": "Dictionary Hunt",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": []  
+}
